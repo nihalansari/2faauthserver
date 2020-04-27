@@ -1,6 +1,6 @@
 ---
 applications:
- - name: botinthub2faserver-tbd
+ - name: botinthub2faserver
    random-route: true
    memory: 128M
    disk_quota: 128M
