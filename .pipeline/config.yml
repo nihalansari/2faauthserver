@@ -1,0 +1,12 @@
+general:
+steps:
+  mtaBuild:
+    buildTarget: 'CF'
+
+  cloudFoundryDeploy:
+    deployTool: 'mtaDeployPlugin'
+    deployType: 'standard'
+    cloudFoundry:
+      org: 'SAP Innovation CF Org'
+      space: 'cai-cf-space-dev'
+      credentialsId: 'CF_CREDS_NIHAL'

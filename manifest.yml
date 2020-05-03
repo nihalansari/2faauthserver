@@ -1,6 +1,6 @@
 ---
 applications:
- - name: botinthub2faserver
+ - name: twofactor1x
    random-route: true
    memory: 128M
    disk_quota: 128M
