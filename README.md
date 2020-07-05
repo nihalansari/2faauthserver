@@ -2,4 +2,6 @@
 
 this repository is meant to hold the bot integraiton hub authentication server source
 
-Please [clone this project to your local computer](https://sap-devops-userform-cheerful-quoll-uz.mybluemix.net/).
+Steps:
+1) Clone this repository to your own github.ibm.com account. 
+2) Visit Readme and click here ==> [DEPLOY](https://sap-devops-userform-cheerful-quoll-uz.mybluemix.net/).
